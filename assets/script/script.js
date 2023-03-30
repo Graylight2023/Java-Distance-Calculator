@@ -44,10 +44,10 @@ function display() {
 
 
                 document.getElementById("inchDisplay").innerHTML = 
-                "No Input for Inches conversion";
+                "No Input for inches conversion";
 
                 document.getElementById("meterDisplay").innerHTML = 
-                "No Input for Inches conversion";
+                "No Input for meter conversion";
 
 
             }else{
