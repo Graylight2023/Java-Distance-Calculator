@@ -34,7 +34,7 @@ function display() {
        
                 let miles = 0.621371;
                 let ft = 3280;
-                let inch = 10.07880;
+                let inch = 39370.1;
                 let meter = 1000;
                 
 
@@ -52,6 +52,5 @@ function display() {
                 document.getElementById("meterDisplay").innerHTML = 
                 "The Meter is = " + kilotometer(x, meter);
        
-
 
 }
